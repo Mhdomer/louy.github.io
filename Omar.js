@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "  THANK UU 😭 كل سنه وانتي طيبة يقمر وربنا يعيدها عليكي بخير  ilyy 💕💕  !";
+  question.innerHTML = " 💕  !";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
